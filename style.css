@@ -1,0 +1,63 @@
+.hero{
+    background-color:rgb(225, 246, 238)
+}
+
+.felix{
+    font-family: "Sacramento", cursive;
+    font-size: 6rem;
+    color:rgb(72, 126, 106);
+    font-style: italic;
+
+}
+
+.work{
+    
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 3rem;
+    color:rgb(72, 126, 106);
+    font-style: normal;
+}
+
+.mb-4{
+    border-radius: 50%;
+}
+
+.about{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    color:rgb(72, 126, 106);
+    font-style: normal;
+}
+
+p{
+    font-size: 1.15rem;
+}
+
+.contact{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    color:rgb(255, 255, 255);
+    
+}
+
+.last{
+    font-family: meerriweather, serif;
+     font-size: 0.9rem;
+     color:rgb(255, 255, 255);
+}
+
+.footer{
+    background-color:rgb(76, 203, 228);
+}
+.social-media {
+     color:rgb(72, 126, 106);
+}
+
+.point{
+    font-size: 3rem;
+     color:rgb(191, 223, 212);
+}
+
+
+
+
